@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Auto.Ecommerce.Domain.Entity\Auto.Ecommerce.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Auto.Ecommerce.Domain.Interface\Auto.Ecommerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Auto.Ecommerce.Infrastucture.Interface\Auto.Ecommerce.Infrastucture.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

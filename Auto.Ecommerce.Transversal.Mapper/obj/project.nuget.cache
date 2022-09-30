@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJ0TMSE367q+e/sCP55YvuiOdBGTU4zkAXP1YtOOoyxyq9OzPUQdnNi8NFOYr0qcw6wTVzNutHpR1FvvIEqM2Q==",
+  "success": true,
+  "projectFilePath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yair\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Yair\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

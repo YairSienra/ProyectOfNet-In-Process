@@ -1,0 +1,876 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj": {}
+  },
+  "projects": {
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj",
+        "projectName": "Auto.Ecommer.Aplication.Interface",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj",
+        "projectName": "Auto.Ecommerce.Aplication.DTO",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj",
+        "projectName": "Auto.Ecommerce.Aplication.Main",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj",
+        "projectName": "Auto.Ecommerce.Domain.Core",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj",
+        "projectName": "Auto.Ecommerce.Domain.Entity",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj",
+        "projectName": "Auto.Ecommerce.Domain.Interface",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj",
+        "projectName": "Auto.Ecommerce.Infrastructura.Data",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj",
+        "projectName": "Auto.Ecommerce.Infrastucture.Interface",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj",
+        "projectName": "Auto.Ecommerce.Infrastucture.Repository",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj",
+        "projectName": "Auto.Ecommerce.Services.Web-Api",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj",
+        "projectName": "Auto.Ecommerce.Transversal.Common",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj",
+        "projectName": "Auto.Ecommerce.Transversal.Mapper",
+        "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj",
+        "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
+        "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj"
+              },
+              "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Auto.Ecommer.Aplication.Interface/1.0.0": {
+        "dependencies": {
+          "Auto.Ecommerce.Aplication.DTO": "1.0.0",
+          "Auto.Ecommerce.Domain.Entity": "1.0.0",
+          "Auto.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Auto.Ecommer.Aplication.Interface.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Aplication.DTO/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Aplication.DTO.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auto.Ecommer.Aplication.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Aplication.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Auto.Ecommerce.Aplication.DTO\Auto.Ecommerce.Aplication.DTO.csproj" />
+    <ProjectReference Include="..\Auto.Ecommerce.Domain.Entity\Auto.Ecommerce.Domain.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

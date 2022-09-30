@@ -1,0 +1,115 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Auto.Ecommerce.Aplication.Main/1.0.0": {
+        "dependencies": {
+          "Auto.Ecommer.Aplication.Interface": "1.0.0",
+          "Auto.Ecommerce.Aplication.DTO": "1.0.0",
+          "Auto.Ecommerce.Domain.Entity": "1.0.0",
+          "Auto.Ecommerce.Domain.Interface": "1.0.0",
+          "Auto.Ecommerce.Transversal.Common": "1.0.0",
+          "AutoMapper": "11.0.1"
+        },
+        "runtime": {
+          "Auto.Ecommerce.Aplication.Main.dll": {}
+        }
+      },
+      "AutoMapper/11.0.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Auto.Ecommer.Aplication.Interface/1.0.0": {
+        "dependencies": {
+          "Auto.Ecommerce.Aplication.DTO": "1.0.0",
+          "Auto.Ecommerce.Domain.Entity": "1.0.0",
+          "Auto.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Auto.Ecommer.Aplication.Interface.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Aplication.DTO/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Aplication.DTO.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Auto.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Auto.Ecommerce.Domain.Interface.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auto.Ecommerce.Aplication.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoMapper/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+      "path": "automapper/11.0.1",
+      "hashPath": "automapper.11.0.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Auto.Ecommer.Aplication.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Aplication.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

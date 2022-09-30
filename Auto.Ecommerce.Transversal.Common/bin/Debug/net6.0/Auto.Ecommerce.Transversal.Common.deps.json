@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Auto.Ecommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auto.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

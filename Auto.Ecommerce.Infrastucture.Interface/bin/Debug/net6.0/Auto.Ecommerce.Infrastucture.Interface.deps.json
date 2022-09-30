@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Auto.Ecommerce.Infrastucture.Interface/1.0.0": {
+        "dependencies": {
+          "Auto.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Auto.Ecommerce.Infrastucture.Interface.dll": {}
+        }
+      },
+      "Auto.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Auto.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auto.Ecommerce.Infrastucture.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
