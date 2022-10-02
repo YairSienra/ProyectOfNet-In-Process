@@ -2,22 +2,26 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "AutoMapper/11.0.1": {
+      "AutoMapper/12.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0"
         },
         "compile": {
-          "lib/netstandard2.1/AutoMapper.dll": {}
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/AutoMapper.dll": {}
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "related": ".xml"
+          }
         }
       },
-      "AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0": {
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.0": {
         "type": "package",
         "dependencies": {
-          "AutoMapper": "11.0.0",
+          "AutoMapper": "12.0.0",
           "Microsoft.Extensions.Options": "6.0.0"
         },
         "compile": {
@@ -30,10 +34,14 @@
       "Dapper/2.0.123": {
         "type": "package",
         "compile": {
-          "lib/net5.0/Dapper.dll": {}
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net5.0/Dapper.dll": {}
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.CSharp/4.7.0": {
@@ -63,10 +71,14 @@
           "Microsoft.Extensions.Primitives": "6.0.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
@@ -75,19 +87,27 @@
           "Microsoft.Extensions.Primitives": "6.0.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -100,10 +120,14 @@
           "Microsoft.Extensions.Primitives": "6.0.0"
         },
         "compile": {
-          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {}
+          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {}
+          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Primitives/6.0.0": {
@@ -112,10 +136,14 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {}
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {}
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -133,10 +161,14 @@
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Registry/4.7.0": {
@@ -146,10 +178,14 @@
           "System.Security.Principal.Windows": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/_._": {}
+          "ref/netstandard2.0/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {}
+          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
@@ -165,10 +201,14 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "runtime.native.System.Data.SqlClient.sni/4.7.0": {
@@ -224,10 +264,14 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -239,19 +283,27 @@
           "Swashbuckle.AspNetCore.Swagger": "6.4.0"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore.SwaggerUI/6.4.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -265,10 +317,14 @@
           "runtime.native.System.Data.SqlClient.sni": "4.7.0"
         },
         "compile": {
-          "ref/netcoreapp2.1/System.Data.SqlClient.dll": {}
+          "ref/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {}
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
@@ -284,10 +340,14 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -300,10 +360,14 @@
           "System.Security.Principal.Windows": "4.7.0"
         },
         "compile": {
-          "ref/netstandard2.0/_._": {}
+          "ref/netstandard2.0/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.AccessControl.dll": {}
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll": {
@@ -315,10 +379,14 @@
       "System.Security.Principal.Windows/4.7.0": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp3.0/_._": {}
+          "ref/netcoreapp3.0/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {}
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
@@ -484,30 +552,30 @@
     }
   },
   "libraries": {
-    "AutoMapper/11.0.1": {
-      "sha512": "WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+    "AutoMapper/12.0.0": {
+      "sha512": "0Rmg0zI5AFu1O/y//o9VGyhxKjhggWpk9mOA1tp0DEVx40c61bs+lnQv+0jUq8XbniF7FKgIVvI1perqiMtLrA==",
       "type": "package",
-      "path": "automapper/11.0.1",
+      "path": "automapper/12.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "automapper.11.0.1.nupkg.sha512",
+        "automapper.12.0.0.nupkg.sha512",
         "automapper.nuspec",
         "icon.png",
         "lib/netstandard2.1/AutoMapper.dll",
         "lib/netstandard2.1/AutoMapper.xml"
       ]
     },
-    "AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0": {
-      "sha512": "0asw5WxdCFh2OTi9Gv+oKyH9SzxwYQSnO8TV5Dd0GggovILzJW4UimP26JAcxc3yB5NnC5urooZ1BBs8ElpiBw==",
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.0": {
+      "sha512": "XCJ4E3oKrbRl1qY9Mr+7uyC0xZj1+bqQjmQRWTiTKiVuuXTny+7YFWHi20tPjwkMukLbicN6yGlDy5PZ4wyi1w==",
       "type": "package",
-      "path": "automapper.extensions.microsoft.dependencyinjection/11.0.0",
+      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
@@ -1472,30 +1540,33 @@
       "Auto.Ecommerce.Infrastucture.Repository >= 1.0.0",
       "Auto.Ecommerce.Transversal.Common >= 1.0.0",
       "Auto.Ecommerce.Transversal.Mapper >= 1.0.0",
-      "AutoMapper >= 11.0.1",
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
+      "AutoMapper >= 12.0.0",
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "Newtonsoft.Json >= 13.0.1",
-      "Swashbuckle.AspNetCore >= 6.4.0"
+      "Swashbuckle.AspNetCore >= 6.4.0",
+      "Swashbuckle.AspNetCore.Swagger >= 6.4.0",
+      "Swashbuckle.AspNetCore.SwaggerGen >= 6.4.0",
+      "Swashbuckle.AspNetCore.SwaggerUI >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Yair\\.nuget\\packages\\": {},
+    "C:\\Users\\Yair Sienra\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj",
+      "projectUniqueName": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj",
       "projectName": "Auto.Ecommerce.Services.Web-Api",
-      "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj",
-      "packagesPath": "C:\\Users\\Yair\\.nuget\\packages\\",
-      "outputPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Services.Web-Api\\obj\\",
+      "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Services.Web-Api\\Auto.Ecommerce.Services.Web-Api.csproj",
+      "packagesPath": "C:\\Users\\Yair Sienra\\.nuget\\packages\\",
+      "outputPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Services.Web-Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Yair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yair Sienra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1504,7 +1575,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\TrabajosFramworks - Dev\\Valkimia\\Core.Vkm": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://gitlab.valkimia.com/api/v4/groups/39/-/packages/nuget/index.json": {}
       },
@@ -1512,38 +1583,38 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommer.Aplication.Interface\\Auto.Ecommer.Aplication.Interface.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Aplication.DTO\\Auto.Ecommerce.Aplication.DTO.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Aplication.Main\\Auto.Ecommerce.Aplication.Main.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Domain.Core\\Auto.Ecommerce.Domain.Core.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Domain.Entity\\Auto.Ecommerce.Domain.Entity.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Infrastructura.Data\\Auto.Ecommerce.Infrastructura.Data.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Infrastucture.Interface\\Auto.Ecommerce.Infrastucture.Interface.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Infrastucture.Repository\\Auto.Ecommerce.Infrastucture.Repository.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Transversal.Common\\Auto.Ecommerce.Transversal.Common.csproj"
             },
-            "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj": {
-              "projectPath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj"
+            "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj": {
+              "projectPath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Transversal.Mapper\\Auto.Ecommerce.Transversal.Mapper.csproj"
             }
           }
         }
@@ -1560,17 +1631,29 @@
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
-            "version": "[11.0.1, )"
+            "version": "[12.0.0, )"
           },
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
-            "version": "[11.0.0, )"
+            "version": "[12.0.0, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
           },
           "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          },
+          "Swashbuckle.AspNetCore.Swagger": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          },
+          "Swashbuckle.AspNetCore.SwaggerGen": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          },
+          "Swashbuckle.AspNetCore.SwaggerUI": {
             "target": "Package",
             "version": "[6.4.0, )"
           }
@@ -1581,7 +1664,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1593,7 +1677,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

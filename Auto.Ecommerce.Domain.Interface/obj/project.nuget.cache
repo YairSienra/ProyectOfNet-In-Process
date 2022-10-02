@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TdqePM/tdWPD4JXcTJRQX3xT3+GJjokuErzttPDQL8UTHiXSggqY8TkGzEqTugb/03JH9LUOBSad1uqHJsHAIg==",
+  "dgSpecHash": "fCE63B2NQzTE5gPn+YmlUtKVWlMjeJkoYKvlEXjt+IY6DB1r9bA7L99O7hPLGU83OjcNy/STpxNPcGr75d/QWQ==",
   "success": true,
-  "projectFilePath": "D:\\TrabajosFramworks - Dev\\.Net\\Architecture-WebApi\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj",
+  "projectFilePath": "C:\\Yair\\Pjects\\ProyectOfNet-In-Process\\Auto.Ecommerce.Domain.Interface\\Auto.Ecommerce.Domain.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

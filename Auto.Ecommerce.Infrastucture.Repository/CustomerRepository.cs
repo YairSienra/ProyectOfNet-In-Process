@@ -33,7 +33,7 @@ namespace Auto.Ecommerce.Infrastucture.Repository
         {
             using (var connection = _connectionFactory.GetDbConnection)
             {
-                var query = "CustomerList";
+                var query = "CustomersList";
               
                 var customers = connection.Query<Customer>(query, commandType: CommandType.StoredProcedure);
 

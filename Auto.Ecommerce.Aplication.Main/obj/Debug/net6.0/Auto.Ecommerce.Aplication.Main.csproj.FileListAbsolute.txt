@@ -44,3 +44,26 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.Ma
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\refint\Auto.Ecommerce.Aplication.Main.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\ref\Auto.Ecommerce.Aplication.Main.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Aplication.Main.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Aplication.Main.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Aplication.Main.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommer.Aplication.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Domain.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Common.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommer.Aplication.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Domain.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Common.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.csproj.CopyComplete
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\refint\Auto.Ecommerce.Aplication.Main.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\Auto.Ecommerce.Aplication.Main.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.Main\obj\Debug\net6.0\ref\Auto.Ecommerce.Aplication.Main.dll

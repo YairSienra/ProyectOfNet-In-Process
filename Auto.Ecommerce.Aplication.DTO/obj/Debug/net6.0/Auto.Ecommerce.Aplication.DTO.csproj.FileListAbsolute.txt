@@ -22,3 +22,15 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.DT
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\refint\Auto.Ecommerce.Aplication.DTO.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\ref\Auto.Ecommerce.Aplication.DTO.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\refint\Auto.Ecommerce.Aplication.DTO.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Aplication.DTO\obj\Debug\net6.0\ref\Auto.Ecommerce.Aplication.DTO.dll

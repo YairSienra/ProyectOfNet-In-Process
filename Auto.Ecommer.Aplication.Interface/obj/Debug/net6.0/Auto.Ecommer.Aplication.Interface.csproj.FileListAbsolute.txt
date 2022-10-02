@@ -36,3 +36,22 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommer.Aplication.Inte
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\refint\Auto.Ecommer.Aplication.Interface.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\ref\Auto.Ecommer.Aplication.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommer.Aplication.Interface.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommer.Aplication.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommer.Aplication.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Common.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Common.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.csproj.CopyComplete
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\refint\Auto.Ecommer.Aplication.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\Auto.Ecommer.Aplication.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommer.Aplication.Interface\obj\Debug\net6.0\ref\Auto.Ecommer.Aplication.Interface.dll

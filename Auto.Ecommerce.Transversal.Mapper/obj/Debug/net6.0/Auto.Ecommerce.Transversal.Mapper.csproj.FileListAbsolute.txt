@@ -32,3 +32,20 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Transversal.M
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\refint\Auto.Ecommerce.Transversal.Mapper.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\ref\Auto.Ecommerce.Transversal.Mapper.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Auto.Ecommerce.Aplication.DTO.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\refint\Auto.Ecommerce.Transversal.Mapper.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Auto.Ecommerce.Transversal.Mapper.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\ref\Auto.Ecommerce.Transversal.Mapper.dll

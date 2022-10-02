@@ -9,6 +9,6 @@ namespace Auto.Ecommerce.Transversal.Common
 {
     public interface IConnectionFactory
     {
-        IDbConnection GetDbConnection { get; }  
+     public IDbConnection GetDbConnection { get; }  
     }
 }

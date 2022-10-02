@@ -36,3 +36,22 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Core\o
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\refint\Auto.Ecommerce.Domain.Core.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\ref\Auto.Ecommerce.Domain.Core.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Domain.Core.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Domain.Core.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Domain.Core.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Domain.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Domain.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\bin\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.csproj.CopyComplete
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\refint\Auto.Ecommerce.Domain.Core.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\Auto.Ecommerce.Domain.Core.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Core\obj\Debug\net6.0\ref\Auto.Ecommerce.Domain.Core.dll

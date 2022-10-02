@@ -28,3 +28,18 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastucture
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\refint\Auto.Ecommerce.Infrastucture.Interface.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\ref\Auto.Ecommerce.Infrastucture.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\bin\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\bin\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\bin\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.csproj.CopyComplete
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\refint\Auto.Ecommerce.Infrastucture.Interface.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\Auto.Ecommerce.Infrastucture.Interface.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastucture.Interface\obj\Debug\net6.0\ref\Auto.Ecommerce.Infrastucture.Interface.dll

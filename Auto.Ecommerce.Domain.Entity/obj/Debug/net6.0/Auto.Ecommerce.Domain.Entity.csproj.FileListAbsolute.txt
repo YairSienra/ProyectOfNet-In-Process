@@ -22,3 +22,15 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Entity
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\refint\Auto.Ecommerce.Domain.Entity.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\ref\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\bin\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\refint\Auto.Ecommerce.Domain.Entity.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\Auto.Ecommerce.Domain.Entity.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Domain.Entity\obj\Debug\net6.0\ref\Auto.Ecommerce.Domain.Entity.dll

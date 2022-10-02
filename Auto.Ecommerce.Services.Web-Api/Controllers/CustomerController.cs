@@ -144,7 +144,7 @@ namespace Auto.Ecommerce.Services.Web_Api.Controllers
             return BadRequest(response.Message);
 
         } */
-        [HttpGet]
+       /* [HttpGet]
         public async Task<IActionResult> GetAllAsync()
         {
             var response = await _customerAplication.GetAllAsync();
@@ -152,7 +152,7 @@ namespace Auto.Ecommerce.Services.Web_Api.Controllers
 
             return BadRequest(response.Message);
 
-        }
+        } */
         #endregion
     }
 }

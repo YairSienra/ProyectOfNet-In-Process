@@ -28,3 +28,18 @@ D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastructur
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\refint\Auto.Ecommerce.Infrastructura.Data.dll
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.pdb
 D:\TrabajosFramworks - Dev\.Net\Architecture-WebApi\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\ref\Auto.Ecommerce.Infrastructura.Data.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\bin\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.deps.json
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\bin\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\bin\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Common.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\bin\Debug\net6.0\Auto.Ecommerce.Transversal.Common.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.csproj.AssemblyReference.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.AssemblyInfoInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.AssemblyInfo.cs
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.csproj.CoreCompileInputs.cache
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.csproj.CopyComplete
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\refint\Auto.Ecommerce.Infrastructura.Data.dll
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\Auto.Ecommerce.Infrastructura.Data.pdb
+C:\Yair\Pjects\ProyectOfNet-In-Process\Auto.Ecommerce.Infrastructura.Data\obj\Debug\net6.0\ref\Auto.Ecommerce.Infrastructura.Data.dll
